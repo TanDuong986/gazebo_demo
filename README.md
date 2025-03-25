@@ -5,7 +5,7 @@ Requirements for this Assignment:
 
     Add a RealSense camera to the robot base.
 
-    Create a new map in Gazebo (including surface texture) and add the robot to it.
+    Create a new map in Gazebo (including surface texture) and add the robot to it. ([link turtorial](https://www.youtube.com/watch?v=S8pwfsK-F9w))
 
     Run ROS bag to collect data.
 
